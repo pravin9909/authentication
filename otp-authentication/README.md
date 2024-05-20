@@ -68,9 +68,10 @@ This repository contains a Laravel application that authenticates users via phon
     - An OTP will be generated and and stored in users table realtime..
     - Enter the OTP to log in.
 
-### Dashboard
-
-- Upon successful login, users will be redirected to a dashboard page where they can manage location data.
+3. **Dashboard**:
+    - Navigate to `/dashboard`.
+    - Dshboard wiew will be available.
+    - Dashboard page where they can manage location data.
 
 ### CRUD Operations
 
