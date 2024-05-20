@@ -13,10 +13,7 @@ This repository contains a Laravel application that authenticates users via phon
 
 ### Installation
 
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+1. **Clone the repository**
     ```
 
 2. **Install dependencies**:
